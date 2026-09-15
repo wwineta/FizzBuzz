@@ -2,6 +2,7 @@ package lab1;
 
 /**
  * Solve the lab1.FizzBuzz challenge.
+ * this comment line is a test for git pull :-)
  */
 class FizzBuzz {
 
